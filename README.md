@@ -1,6 +1,6 @@
 
 # Weather APP
-The application was created as a part of MMC School [](https://mmcschool.pl/) course.
+The application was created as a part of MMC School course.
 ## Technologies Used
 - HTML
 - CSS
