@@ -1,0 +1,19 @@
+
+# Weather APP
+The application was created as a part of MMC School [](https://mmcschool.pl/) course.
+## Technologies Used
+- HTML
+- CSS
+- SCSS
+- JavaScript
+
+
+## Live Version
+
+- The live version is available [Link](https://kamil88x.github.io/weatherApp/)
+
+
+## Project Status
+Project is completed.
+
+
