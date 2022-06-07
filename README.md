@@ -4,8 +4,8 @@ The application was created as a part of MMC School course.
 ## Technologies Used
 - HTML
 - CSS
-- SCSS
 - JavaScript
+- Gulp
 
 
 ## Live Version
